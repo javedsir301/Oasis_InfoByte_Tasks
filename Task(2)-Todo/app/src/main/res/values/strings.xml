@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="todo_app">Todo App</string>
+    <string name="todo01">TODO</string>
+    <string name="priority">Priority</string>
+    <string name="title">Title...</string>
+    <string name="subtitle">Subtitle...</string>
+    <string name="todo02">TODO</string>
+    <string name="td">TODO</string>
+    <string name="td2">TODO</string>
+    <string name="notes">Notes</string>
+    <string name="todo04">TODO</string>
+    <string name="td4">TODO</string>
+</resources>
